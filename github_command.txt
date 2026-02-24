@@ -1,0 +1,5 @@
+git clone, git add
+git commit, git push
+git pull, git branch
+git checkout, git merge
+test file
